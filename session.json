@@ -1,4 +1,7 @@
 {
-Put ur session here
-Taro session lu di sini
+	"clientID": "c0KIn6Ydy1rkLWDo9DoqTA==",
+	"serverToken": "1@fimSBFcGrfJ/VrZipZUttgS883XbncneKyNy9uluTqk06bJEJa/wtIm1MLhwvGzxyTPCuXh5jV5zTg==",
+	"clientToken": "zU7Nh2QMD4FLGtfQTK3Z4AYojDHABO24ALZh9dYj+DY=",
+	"encKey": "5ehXCBW7dc4J65c4YrQLGWcE7GGBH2tfX93Bkg86gA8=",
+	"macKey": "T8k05mG7g1oOjkzA9wrbngDvKVRHLnTjYohbYLP3I0I="
 }
